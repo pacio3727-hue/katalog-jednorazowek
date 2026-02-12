@@ -16,7 +16,7 @@ h3{margin:0 0 6px;color:#fff;}
 .meta{font-size:13px;color:#aaa;margin-bottom:8px;}
 .content ul{padding-left:18px;margin:0;font-size:13px;color:#bbb;max-height:180px;overflow-y:auto;}
 footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px solid #222;}
-#ageOverlay{position:fixed;inset:0;background:rgba(0,0,0,.95);display:flex;align-items:center;justify-content:center;z-index:9999;opacity:1;transition: opacity 0.3s ease;}
+#ageOverlay{position:fixed;inset:0;background:rgba(0,0,0,.95);display:flex;align-items:center;justify-content:center;z-index:9999;}
 .ageBox{background:#111;padding:30px;border-radius:14px;max-width:420px;text-align:center;border:1px solid #333;}
 .ageBox button{margin-top:15px;padding:10px 20px;font-weight:bold;border:none;border-radius:6px;cursor:pointer;}
 </style>
@@ -107,22 +107,30 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <li>Grapefruit Refresher</li><li>Grape Berry</li>
 </ul>
 </div>
-</div>
-
-<!-- MODEL 4 -->
+</div><!-- MODEL 4 -->
 <div class="card">
 <img src="model4.jpg" alt="MerryMi 20000" loading="lazy">
 <div class="content">
 <h3>MerryMi 20000</h3>
 <div class="meta">20000 puff • 5%</div>
 <ul>
-<li>Blackcurrant Dragon Fruit</li><li>Mixed Berry</li><li>Blueberry Raspberry</li>
-<li>Kiwi Passion Fruit Guava</li><li>Love 66</li><li>Summer Blaze</li>
-<li>Red Energy Ice</li><li>Cactus Candy</li><li>Vimto</li>
-<li>Summer Peach Ice</li><li>Watermelon Ice</li><li>Prime Strawberry</li>
+<li>Blackcurrant Dragon Fruit</li>
+<li>Mixed Berry</li>
+<li>Blueberry Raspberry</li>
+<li>Kiwi Passion Fruit Guava</li>
+<li>Love 66</li>
+<li>Summer Blaze</li>
+<li>Red Energy Ice</li>
+<li>Cactus Candy</li>
+<li>Vimto</li>
+<li>Summer Peach Ice</li>
+<li>Watermelon Ice</li>
+<li>Prime Strawberry</li>
 </ul>
 </div>
-</div><!-- MODEL 5 -->
+</div>
+
+<!-- MODEL 5 -->
 <div class="card">
 <img src="model5.jpg" alt="MerryMi Mecha Pro" loading="lazy">
 <div class="content">
@@ -161,9 +169,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <li>Cherry / Love 66 / Berry Lemonade / Grape Ice</li>
 </ul>
 </div>
-</div>
-
-<!-- MODEL 7 -->
+</div><!-- MODEL 7 -->
 <div class="card">
 <img src="model7.jpg" alt="Tornado" loading="lazy">
 <div class="content">
@@ -189,14 +195,44 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <ul>
 <li>Blueberry Raspberry Hard Candy</li>
 <li>Strawberry Kiwi</li>
+<li>Peach Pineapple Orange</li>
 <li>Skittles</li>
+<li>Pear Ice</li>
+<li>Cotton Candy</li>
+<li>Jelly Beans</li>
+<li>Huckleberry</li>
 <li>Watermelon Ice</li>
+<li>Strawberry Watermelon</li>
+<li>Mixed Berry</li>
+<li>Lychee Hami Melon</li>
+<li>Cherry Lime</li>
+<li>Pineapple Lemon Green Apple</li>
+<li>Banana Cake</li>
 <li>Mr Blue</li>
+<li>Blueberry Raspberry</li>
 <li>Cherry Cola</li>
+<li>Kiwi Passion Fruit Guava</li>
+<li>Strawberry Raspberry Cherry Ice</li>
+<li>Cherry Berry</li>
+<li>Blueberry Sour Raspberry</li>
+<li>Peach Berry</li>
+<li>Blue Razz Gummy Bear</li>
 <li>Cool Mint</li>
+<li>Cactus Ice</li>
+<li>Red Grape Lime</li>
+<li>Cola Lemon</li>
+<li>Blackcurrant Apple</li>
+<li>Cactus Kiwi</li>
+<li>Cola Ice</li>
+<li>Mango Grape Ice</li>
+<li>Blueberry Cactus Ice</li>
+<li>Grape Kiwi</li>
+<li>Apple Grapefruit</li>
 </ul>
 </div>
-</div><!-- MODEL 9 -->
+</div>
+
+<!-- MODEL 9 -->
 <div class="card">
 <img src="model9.jpg" alt="Fumot Digital Monkey" loading="lazy">
 <div class="content">
@@ -220,9 +256,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <li>Double Apple</li>
 </ul>
 </div>
-</div>
-
-<!-- MODEL 10 -->
+</div><!-- MODEL 10 -->
 <div class="card">
 <img src="model10.jpg" alt="Movkin Tycoon" loading="lazy">
 <div class="content">
@@ -300,13 +334,12 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <script>
 function acceptAge(){
   localStorage.setItem("ageAccepted","yes");
-  const overlay = document.getElementById("ageOverlay");
-  overlay.style.opacity = 0;
-  setTimeout(() => overlay.style.display="none", 300);
+  document.getElementById("ageOverlay").style.display = "none"; // natychmiast ukryj overlay
 }
-if(localStorage.getItem("ageAccepted")==="yes"){
-  document.getElementById("ageOverlay").style.display="none";
+if(localStorage.getItem("ageAccepted") === "yes"){
+  document.getElementById("ageOverlay").style.display = "none";
 }
 </script>
+
 </body>
 </html>
