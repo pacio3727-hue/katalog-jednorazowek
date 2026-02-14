@@ -39,7 +39,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 1 -->
 <div class="card">
-<img src="model1.jpg" alt="Merryblade" loading="lazy">
+<img src="test.jfif" alt="Merryblade" width="300" loading="lazy">
 <div class="content">
 <h3>Merryblade</h3>
 <div class="meta">30000 puff • 5% • regulacja mocy 10–26W</div>
