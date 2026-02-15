@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!<!DOCTYPE html>
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
@@ -39,7 +39,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 1 -->
 <div class="card">
-<img src="test.jfif" alt="Merryblade" width="300" loading="lazy">
+<img src="https://bestevape.com/wp-content/uploads/2025/10/2-merry-mi-blade-30000-vape-diposable-wegwerp-vape-e-cigarette-puff-jetable-france-nederland-belgie-goedkoop.jpg" alt="Merryblade" width="89" loading="lazy">
 <div class="content">
 <h3>Merryblade</h3>
 <div class="meta">30000 puff • 5% • regulacja mocy 10–26W</div>
@@ -62,7 +62,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 2 -->
 <div class="card">
-<img src="model2.jpg" alt="ETS Dual Galaxy" loading="lazy">
+<img src="https://wapujemy.com/wp-content/uploads/2025/04/wersja-2.png" alt="ETS Dual Galaxy" loading="lazy">
 <div class="content">
 <h3>ETS Dual Galaxy</h3>
 <div class="meta">30000 puff • 5% • dual flavor</div>
@@ -88,7 +88,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 3 -->
 <div class="card">
-<img src="model3.jpg" alt="MerryMi M-Mecha" loading="lazy">
+<img src="https://vape444.com/cdn/shop/files/Merry-Mi-M-Mecha-16K-black-mint_022b8826-2473-47f8-a56b-e49df07b8579.jpg?v=1766859429" alt="MerryMi M-Mecha" loading="lazy">
 <div class="content">
 <h3>MerryMi M-Mecha</h3>
 <div class="meta">16000 puff • 3%</div>
@@ -107,32 +107,19 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 <li>Grapefruit Refresher</li><li>Grape Berry</li>
 </ul>
 </div>
-</div><!-- MODEL 4 -->
-<div class="card">
-<img src="model4.jpg" alt="MerryMi 20000" loading="lazy">
-<div class="content">
-<h3>MerryMi 20000</h3>
-<div class="meta">20000 puff • 5%</div>
-<ul>
-<li>Blackcurrant Dragon Fruit</li>
-<li>Mixed Berry</li>
-<li>Blueberry Raspberry</li>
-<li>Kiwi Passion Fruit Guava</li>
-<li>Love 66</li>
-<li>Summer Blaze</li>
-<li>Red Energy Ice</li>
-<li>Cactus Candy</li>
-<li>Vimto</li>
-<li>Summer Peach Ice</li>
-<li>Watermelon Ice</li>
-<li>Prime Strawberry</li>
-</ul>
-</div>
-</div>
 
+ <!-- MODEL 4 -->
+<div class="card">
+<img src="https://mega-jednorazówki.pl/images/MerryMi_Panda_X_40K_Polska_Jednorazowki_E_papieros_Crazy_Blueberry.png" alt="MerryMi Panda X " loading="lazy">
+<div class="content">
+<h3>Merrymi Panda X</h3>
+<div class="meta">40000 puff • 5%</div>
+<ul>
+
+  
 <!-- MODEL 5 -->
 <div class="card">
-<img src="model5.jpg" alt="MerryMi Mecha Pro" loading="lazy">
+<img src="https://vapemvps.com/cdn/shop/files/merry-mi-mecha-pro-20k-puffs-fanta-vapemvps.jpg?v=1763392696" alt="MerryMi Mecha Pro" loading="lazy">
 <div class="content">
 <h3>MerryMi Mecha Pro</h3>
 <div class="meta">35000 puff • 5%</div>
@@ -150,9 +137,10 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 </div>
 </div>
 
+
 <!-- MODEL 6 -->
 <div class="card">
-<img src="model6.jpg" alt="Airmez Fox 4in1" loading="lazy">
+<img src="https://www.vapeandoando.com/cdn/shop/files/Airmez-Fox-3.jpg?v=1764637798" alt="Airmez Fox 4in1" loading="lazy">
 <div class="content">
 <h3>Airmez Fox 4in1</h3>
 <div class="meta">120000 puff • 2% • 4 smaki</div>
@@ -171,7 +159,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 </div>
 </div><!-- MODEL 7 -->
 <div class="card">
-<img src="model7.jpg" alt="Tornado" loading="lazy">
+<img src="https://www.randmvape-shop.net/cdn/shop/files/RandMTornado15000.png?v=1748017766&width=1080" alt="Tornado" loading="lazy">
 <div class="content">
 <h3>Tornado</h3>
 <div class="meta">15000 puff • 5% / 2%</div>
@@ -188,7 +176,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 8 -->
 <div class="card">
-<img src="model8.jpg" alt="Fumot Tornado" loading="lazy">
+<img src="https://static.24hvape.com/wp-content/uploads/2025/06/13121252/24h-vape-fumot-tornado-20000-20k-puffs-mixed-berry-654x690.jpg.webp" alt="Fumot Tornado" loading="lazy">
 <div class="content">
 <h3>Fumot Tornado</h3>
 <div class="meta">20000 puff • 5%</div>
@@ -234,7 +222,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 9 -->
 <div class="card">
-<img src="model9.jpg" alt="Fumot Digital Monkey" loading="lazy">
+<img src="https://wezbucha.org/wp-content/uploads/2025/09/mon3.jpeg" alt="Fumot Digital Monkey" loading="lazy">
 <div class="content">
 <h3>Fumot Digital Monkey</h3>
 <div class="meta">40000 puff • 5%</div>
@@ -258,10 +246,10 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 </div>
 </div><!-- MODEL 10 -->
 <div class="card">
-<img src="model10.jpg" alt="Movkin Tycoon" loading="lazy">
+<img src="https://szfumotvape.com/wp-content/uploads/2025/10/fumot-vape-heating-cores.webp" alt="Movkin Tycoon" loading="lazy">
 <div class="content">
 <h3>Movkin Tycoon</h3>
-<div class="meta">40000 puff • 5% • tryby ICE & nikotyny</div>
+<div class="meta">40000 puff • 5% • 3 tryby ICE & 3 tryby nikotyny</div>
 <ul>
 <li>Watermelon Strawberry</li>
 <li>Blueberry Blackberry</li>
@@ -285,7 +273,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 11 -->
 <div class="card">
-<img src="model11.jpg" alt="RandM Tornado 60k 3in1" loading="lazy">
+<img src="https://www.deeppouch.com/wp-content/uploads/2026/01/RahdM-Tornado-3in1-60000-Puffs.webp" alt="RandM Tornado 60k 3in1" loading="lazy">
 <div class="content">
 <h3>RandM Tornado 60k 3in1</h3>
 <div class="meta">60000 puff • 5% • 3 smaki</div>
@@ -306,7 +294,7 @@ footer{text-align:center;font-size:12px;color:#777;padding:15px;border-top:1px s
 
 <!-- MODEL 12 -->
 <div class="card">
-<img src="model12.jpg" alt="WGA Crystal Plus" loading="lazy">
+<img src="https://wezbucha.org/wp-content/uploads/2024/08/wga-crystal-plus-20000-vape_web-11_1024x1024.webp" alt="WGA Crystal Plus" loading="lazy">
 <div class="content">
 <h3>WGA Crystal Plus</h3>
 <div class="meta">20000 puff • 5% • 2 smaki</div>
